@@ -1,12 +1,10 @@
 # franz-common-hangouts
-Port of [Common Hangout](https://medium.com/@airpoint/common-hangouts-868299f3c459) for Franz
+Port of [Common Hangout](https://medium.com/@airpoint/common-hangouts-868299f3c459) for [Franz](https://github.com/meetfranz)
 
-[Google Chrome Plugin](https://chrome.google.com/webstore/detail/common-hangouts/acffocjoafjbncgcmoephiffghmjlfdi)
-https://github.com/airpoint/common-hangouts
+Here you can find the [Google Chrome Extension](https://chrome.google.com/webstore/detail/common-hangouts/acffocjoafjbncgcmoephiffghmjlfdi)
+and the Sourcecode for [common-hangouts](https://github.com/airpoint/common-hangouts)
 
-[Franz](https://github.com/meetfranz)
-
-Use the same css like the plugin.
+Use the same css like the Chrome Extension, some small changes for icon and notification counter.
 
 Changes:
 - Notification Count for Franz
