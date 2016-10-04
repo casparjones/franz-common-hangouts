@@ -1,0 +1,23 @@
+{
+  "name": "common_hangouts",
+  "version": "0.0.33",
+  "description": "common_hangouts.",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://plus.google.com/hangouts",
+    "serviceName": "Common Hangouts",
+    "message": "Port of Common Hangouts from http://bit.ly/1BuZ4nS. Google Hangouts in a standalone tab with improved UX and clean UI.",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
