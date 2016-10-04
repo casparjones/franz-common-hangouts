@@ -4,6 +4,8 @@ Port of [Common Hangout](https://medium.com/@airpoint/common-hangouts-868299f3c4
 [Google Chrome Plugin](https://chrome.google.com/webstore/detail/common-hangouts/acffocjoafjbncgcmoephiffghmjlfdi)
 https://github.com/airpoint/common-hangouts
 
+[Franz](https://github.com/meetfranz)
+
 Use the same css like the plugin.
 
 Changes:
